@@ -1,7 +1,6 @@
 package part2actors.ping_pong
 
 import akka.actor.{Actor, ActorSystem, Props}
-import part2actors.ping_pong.BetterPingPongSimulation.Ping
 
 object PingPongBest extends scala.App {
 
